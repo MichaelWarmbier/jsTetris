@@ -1,0 +1,57 @@
+body {
+  background-image: url('https://i.imgur.com/gReQoLf.png');
+}
+
+#GameWrap {
+  position: absolute; margin:auto;
+  top:50px; right:0; left:0;
+  width:408px; height:600px;
+}
+
+#InfoWrap {
+  position: absolute; margin:auto;
+  top:100px; right:0; left:-848px;
+  width:400px; height:600px;
+}
+
+#TitleWrap {
+  position: absolute; margin:auto;
+  top:15px; right:0; left:0;
+  width:400px; height:20px;
+}
+
+#VersionWrap {
+  position: absolute; margin:auto;
+  top:690px; right:-650px; left:0;
+  width:400px; height:20px;
+  font-size:12px;
+}
+
+#ControlsWrap {
+  position: absolute; margin:auto;
+  top:175px; right:-848px; left:0;
+  width:400px; height:600px;
+}
+
+#HighscoreWrap {
+  position: absolute; margin:auto;
+  width:200px; height:20px;
+  top:690px; right: 0; left: -200px;
+  font-wsize:12px;
+
+}
+
+.GameSprite {
+  background-color:transparent;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  float:left;
+  width: 24px; height: 25px;
+}
+
+p, pre, div {
+  font-family: 'Roboto Mono', monospace;
+  color:white;
+}
