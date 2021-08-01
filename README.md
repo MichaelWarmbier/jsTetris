@@ -4,7 +4,7 @@ Tetris redesigned from scratch in HTML, CSS and JavaScript.
 
 ## Description
 
-This project was made for Javascript practice. Additionally, it's intended to be an adaptation of "Console Tetris" that is portable and shareable as a showcase, as well as a future portfolio piece.
+This web-based application is a continuuation of my "Console Tetris" project and was used as a gateway into practicing somet HTML, CSS and JavaScript.
 
 Code was written from scratch with the only reference being the code from the afforementioned "Console Tetris".
 
